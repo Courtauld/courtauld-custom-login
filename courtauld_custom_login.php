@@ -2,7 +2,6 @@
 
 /*
    Plugin Name: Courtuald Custom Login
-   Plugin URI: http://example.org
    Description: This plugin customises the login page according to the styles of the Courtauld websites.
    Version: 1.0
    Author: Jacob Charles Wilson
