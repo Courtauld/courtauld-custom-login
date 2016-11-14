@@ -1,0 +1,53 @@
+body {background: #263744; color:#222222;}
+
+#login h1 a {
+    background-image: url("courtauld_logo.jpg");
+    background-size: contain;
+    width:auto;
+    height:auto;
+    color:#fefefe;
+    font-size:2.375rem;
+    text-indent: -9999;
+	}
+
+.login label {
+    color:#222222;
+}
+
+.login .button-primary {
+    background: #6ebec4;
+    color:#fefefe;
+    text-transform: uppercase;
+    padding:1rem;
+    border:1px solid #6ebec4;
+    box-shadow: inherit;
+    text-shadow: inherit;
+}
+
+.button-primary:after {
+    content: " 〉";
+}
+
+.login input[type="text"], .login input[type="password"]{
+  border-color:#6ebec4;
+}
+
+.forgetmenot label {
+    font-size: 14px;
+}
+
+p#backtoblog {
+  display: none;
+}
+
+#nav a {color:#fefefe; text-decoration: underline;}
+
+.login.message {
+    border:none;
+    padding:24px;
+}
+
+#login_error {
+    border:none;
+    padding:24px;
+}
